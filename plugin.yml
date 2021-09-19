@@ -1,0 +1,5 @@
+name: RedstoneArmor
+version: 1.0-BETA
+api: 4.0.0
+main: unnyancat\redstonearmor\Main
+author: UnChatSauvage
